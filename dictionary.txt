@@ -1,0 +1,10 @@
+apple: A round fruit with red, yellow, or green skin and a white flesh.
+computer: An electronic device for storing and processing data.
+python: A large heavy-bodied nonvenomous constrictor snake.
+python: A high-level programming language.
+thread: A fine cord of twisted yarns used in sewing and weaving.
+thread: A sequence of instructions that can be managed independently by a scheduler.
+socket: A hollow part or opening into which something fits.
+socket: An endpoint for communication between two machines.
+network: A group of interconnected computers, machines, or operations.
+dictionary: A reference book containing an alphabetical list of words with information about them.
